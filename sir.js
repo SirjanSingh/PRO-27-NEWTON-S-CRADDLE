@@ -3,7 +3,7 @@ class Thread{
         var options = {
             bodyA: bodyA,
             pointB: pointB,
-            stiffness: 0.04,
+            stiffness: 0.045,
             length: 350
         }
         this.pointB=pointB;
